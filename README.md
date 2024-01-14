@@ -1,1 +1,2 @@
 A personal project to explore HTML/CSS/Javascript. This game is still in the works and involves a ball bouncing around the player's screen. The player has control of a paddle at the bottom and attempts to bounce the ball to keep it in the playing area for as long as possible.
+To launch the game, download the contents of this repo to your local device. Then, open up your browser and open the HTML file. Enjoy!
